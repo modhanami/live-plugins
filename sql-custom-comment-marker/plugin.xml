@@ -2,7 +2,7 @@
     <id>sql-custom-comment-marker</id>
     <name>SQL Custom Comment Marker</name>
     <version>1.0</version>
-    <vendor/>
+    <vendor>modhanami</vendor>
     <description><![CDATA[Configure custom line comment prefixes for SQL dialects and databases]]></description>
 
     <!-- See https://plugins.jetbrains.com/docs/intellij/build-number-ranges.html -->
